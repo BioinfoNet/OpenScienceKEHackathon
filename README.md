@@ -17,13 +17,17 @@ We are in the process of developing ideas for the hackathon. Our initial thought
 
 The first project can be handled by two groups: a literature search and data mining. 
 
-Reach out ff can help out in any of the projects.
+Reach out if can help out in any of the projects.
 
 ### What kind of projects are we interested in?
 We looking for projects that:
    - Can be tackled within two days
    - Can be tackled by participants with entry to intermediate coding skills
    - Address a Bioinformatics or Open Science question. Should not, however, require highly specialized Bioinformatics skills
+
+## To participate
+
+You can make an application to participate in the hackathon using the link: https://goo.gl/forms/kB8scJld2UG2NncH2  
 
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
