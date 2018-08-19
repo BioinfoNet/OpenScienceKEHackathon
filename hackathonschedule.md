@@ -1,4 +1,4 @@
-# Schedule for OpenScienceKE Worksop 2018
+# Schedule for OpenScienceKE Hackathon 2018
 
 **Date:** Thursday, August 30- Friday, August 31, 2018
 
