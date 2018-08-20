@@ -84,6 +84,6 @@ Time: 9 AM to 5 PM
 
 ### 4:15PM - 5:00PM: Review
 * Summary of progress by teams and wrap-up
-* Objectives made?
+* Objectives met?
 * What could have been done better?
 * Vote of thanks
