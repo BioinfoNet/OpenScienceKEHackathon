@@ -62,12 +62,9 @@ Time: 9 AM to 5 PM
 * Team leaders distribute tasks
 
 ### 9:30 - 10:30 AM: Break into teams and begin working
-* Develop a strategy
-* Define the scope
-* gather required resources
-* Divide responsibilities
+* Hack away
 
-### 10:30:00AM - 10:45AM
+### 10:30:00AM - 10:45AM: Tea Break
 
 ### 10:45 PM - 12:30 PM: Break into teams and continue working
 
@@ -79,8 +76,8 @@ Time: 9 AM to 5 PM
 * Challenges?
 
 ### 2:00 PM - 4:00 PM: Break into teams and continue working
-* Refine your approach
-* Keep working
+* Prepare quick presentation
+* Start wrapping up
 
 ### 4:00PM - 4:15PM
 * BREAK
