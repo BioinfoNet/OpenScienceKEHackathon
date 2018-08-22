@@ -17,12 +17,12 @@ We are in the process of developing ideas for the hackathon. Our initial thought
 
 The first project can be handled by two groups: a literature search and data mining. 
 
-Reach out if can help out in any of the projects.
+Reach out if you can help out in any of the projects.
 
 ### What kind of projects are we interested in?
 We looking for projects that:
    - Can be tackled within two days
-   - Can be tackled by participants with entry to intermediate coding skills
+   - Can be tackled by participants with entry to intermediate level coding skills
    - Address a Bioinformatics or Open Science question. Should not, however, require highly specialized Bioinformatics skills
 
 ## To participate
