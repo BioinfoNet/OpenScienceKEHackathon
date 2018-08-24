@@ -21,7 +21,7 @@ Time: 9 AM to 5 PM
 * What is a hackathon
   - How to make the best of the hackathon days
   - Agile  software development techniques
-* Introduction to writing techniques
+  - How to create a roadmap
 * Review: how to use GitHub for collaboration
 
 ### 10:15:00AM - 10:30AM
@@ -37,6 +37,7 @@ Time: 9 AM to 5 PM
 * LUNCH
 
 ### 1:30PM - 2:00PM: Discussions and Interactions (Pauline)
+* Presentation: Introduction to writing techniques (Victoria Nduta)
 * How is it going so far?
 * Challenges?
 * Skill requirement review
