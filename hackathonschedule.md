@@ -8,7 +8,7 @@ Time: 9 AM to 5 PM
 
 **Hashtag:** [#OpenScienceKE](https://twitter.com/hashtag/OpenScienceKe?src=hash)
 
-## Day 1 (August 9, 9:00AM - 5:00PM)
+## Day 1 (August 30, 9:00AM - 5:00PM)
 
 ### 9:00AM - 9:30AM: Welcome (Caleb and Pauline)
 * Registration
@@ -58,7 +58,7 @@ Time: 9 AM to 5 PM
 * Break for the day
 
 
-## Day 2 (August 10, 9:30AM - 5:30PM)
+## Day 2 (August 31, 9:00AM - 5:30PM)
 ### 9:00AM - 9:30AM: Welcome (Caleb and Rosaline)
 * Define the objectives for the day
 * Team leaders distribute tasks
