@@ -15,20 +15,23 @@ We are in the process of developing ideas for the hackathon. Our initial thought
      - Basic writing and literature search
 3. What else can we explore?
 
-The first project can be handled by two groups: a literature search and data mining. 
+## Hackathon Projects
+The following projects have been selected for the hackathon:
+1. [Status of open science in Kenya: Literature search](https://github.com/BioinfoNet/Status-of-OpenScienceKE-LiteratureSearch)
+2. [Status of open science in Kenya: Data mining](https://github.com/BioinfoNet/Data-mining)
+3. [Publishing open access at low cost: what are our options?](https://github.com/BioinfoNet/Openaccess-Options)
 
-Reach out if you can help out in any of the projects.
+Check the linked repos to know more about the projects. Reach out to the team leaders if you can help out with any of the projects.
 
 ### What kind of projects are we interested in?
 We looking for projects that:
    - Can be tackled within two days
    - Can be tackled by participants with entry to intermediate level coding skills
    - Address a Bioinformatics or Open Science question. Should not, however, require highly specialized Bioinformatics skills
-
+Thank you for your interest. We already settled on the hackathon projects.  
 ## To participate
 
-You can make an application to participate in the hackathon using the link: https://goo.gl/forms/kB8scJld2UG2NncH2  
-
+You can make an application to participate in the hackathon using the link: https://goo.gl/forms/kB8scJld2UG2NncH2. Applications Closed.  
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
 
@@ -41,4 +44,3 @@ The hackathon venue and computing resource support from [Kenya Education Network
 For questions, suggestions or to participate, reach me via:
 - Twitter: [@calkibet](https://twitter.com/calkibet)
 - Email: kipkuruis [at] hotmail.com
-
