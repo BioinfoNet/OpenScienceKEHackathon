@@ -20,7 +20,6 @@ Time: 9 AM to 5 PM
 ### 9:30AM - 10:15AM: Presentations (Caleb)
 * What is a hackathon
   - How to make the best of the hackathon days
-  - Agile  software development techniques
   - How to create a roadmap
 * How to use GitHub for collaboration: [GitHub Flow](https://guides.github.com/introduction/flow/)
 * Expected outcomes
@@ -29,7 +28,7 @@ Time: 9 AM to 5 PM
 * Tea Break
 
 ### 10:30 - 11:30 AM: Break into teams and begin working (Team Leaders)
-* Develop a strategy
+* Develop a roadmap and strategy
 * Define the scope
 * Gather required resources
 * Divide responsibilities
