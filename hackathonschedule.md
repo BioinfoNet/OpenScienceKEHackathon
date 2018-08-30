@@ -27,7 +27,7 @@ Time: 9 AM to 5 PM
 ### 10:15:00AM - 10:30AM
 * Tea Break
 
-### 10:30 - 11:30 AM: Break into teams and begin working (Team Leaders)
+### 10:30 - 12:30 AM: Break into teams and begin working (Team Leaders)
 * Develop a roadmap and strategy
 * Define the scope
 * Gather required resources
