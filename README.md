@@ -28,14 +28,14 @@ We looking for projects that:
    - Can be tackled within two days
    - Can be tackled by participants with entry to intermediate level coding skills
    - Address a Bioinformatics or Open Science question. Should not, however, require highly specialized Bioinformatics skills
-Thank you for your interest. We already settled on the hackathon projects, but feel free to suggest projects we can explore in future.  
+Thank you for your interest. We already settled on the hackathon projects, but feel free to suggest projects we can explore in the future.  
 
 ## To participate
 
 You can make an application to participate in the hackathon using the link: https://goo.gl/forms/kB8scJld2UG2NncH2. Applications Closed. 
 
 ### Hackathon Schedule
-Find the hackathon shedule [here](https://github.com/BioinfoNet/OpenScienceKEHackathon/blob/master/hackathonschedule.md).
+Find the hackathon schedule [here](https://github.com/BioinfoNet/OpenScienceKEHackathon/blob/master/hackathonschedule.md).
 
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
@@ -44,9 +44,8 @@ All content of this repo is released under the [CC-BY 4.0 license](https://creat
 We hereby acknowledge the funding for this project from [Alfred  P. Sloan Foundation](https://sloan.org/) through [Mozilla Science Lab](https://science.mozilla.org/) Mini-Grants.
 
 The hackathon venue and computing resource support from [Kenya Education Network](https://www.kenet.or.ke/) (KENET) is also acknowledged.
-
-## The Organizers
-This hackathon has benefited form contribution from: 
+## Contributors
+### Organizers
 - [Caleb Kipkurui](https://github.com/kipkurui) (OpenScienceKE Project Lead)
 - [Ben Mainye](https://github.com/Shuyib)(Team Lead, Data Mining Group)
 - [Pauline karega](https://github.com/karegapauline)(Team Lead,Open Access Options Group)
@@ -54,6 +53,7 @@ This hackathon has benefited form contribution from:
 - [Daniel Ouso](https://github.com/ousodaniel)
 - [Rosaline Macharia](https://github.com/rosamach)
 - [Kelvin Muteru](https://github.com/kmut2030)
+### Hackathon Participants
 
 ## Reach out
 For questions, suggestions or to participate, reach me via:
